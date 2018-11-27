@@ -55,4 +55,6 @@ figcaption {
   text-decoration: underline;
 }
 
-#details 
+#details a:active {
+  color: red;
+}
